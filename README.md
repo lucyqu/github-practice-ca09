@@ -124,7 +124,7 @@
 |92|Raphaël Nahoum|21|nahoumraphael|https://github.com/nahoumraphael/FinalWebsite|https://nahoum-raphael-website.netlify.app|2020-10-13
 |93|Rayna Zhang|34|RaynaPOI| <https://github.com/RaynaPOI/Rayna_website_final> | <https://raynazhang99.netlify.app/> |2020-10-13
 |94|Juan Sebastian Vargas Rivera|5|sebastianvmfa| <https://github.com/sebastianvmfa/jsvr_website> | <https://sebastianv-portfolio.netlify.app> |2020-10-13
-|95|Lucy Qu|28|lucyqu| https://github.com/lucyqu/my_website | https://lucy-portfolio.netlify.app|2020-10-13
+|95|Lucy Qu|28|lucyqu| https://github.com/lucyqu/my_website | https://lucy-qu-portfolio.netlify.app |2020-10-13
 |96|Kasia Gasiewska|37|kasiagasiewska| <https://github.com/kasiagasiewska/my_website> | <https://kasia-portfolio.netlify.app> |2020-10-13
 |97|Alexandre Minot|9|AlexMinot| <https://github.com/AlexMinot/my_website> | <https://alexandre-minot-portfolio.netlify.app/> |2020-10-13
 |98|Pieter Vercruysse|7|PieterVercruysse|<https://github.com/PieterVercruysse/mywebsite>|<https://pietervercruysse-portfolio.netlify.app>|2020-10-13
